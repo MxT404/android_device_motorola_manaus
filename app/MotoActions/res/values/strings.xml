@@ -16,4 +16,10 @@
     <string name="turbo_mode_one">Slow (18W)</string>
     <string name="turbo_mode_two">Medium (33W)</string>
     <string name="turbo_mode_three">Max (68W)</string>
+
+    <!-- Doze Help Dialog & General -->
+    <string name="doze_settings_help_title">Help</string>
+    <string name="doze_settings_help_text">These features use sensor events to pulse notifications. The selected sensor will be enabled only when a notification is received, helping reduce battery usage. There is also an option to enable the sensor as soon as the screen turns off, but this will cause more battery usage.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="unknown">Unknown</string>
 </resources>
