@@ -6,7 +6,7 @@ ccu.img;AB
 dpm.img;AB
 gpueb.img;AB
 gz.img;AB
-lk.img;AB
+lk.img;AB|b475afeff61009f4b23b8c7a81cea12d3bbfd734
 logo.img;AB
 mcf_ota.img;AB
 mcupm.img;AB
