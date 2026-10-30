@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/custom_manaus.mk
 
 COMMON_LUNCH_CHOICES := \
-    infinity_manaus-user \
-    infinity_manaus-userdebug \
-    infinity_manaus-eng
+    custom_manaus-user \
+    custom_manaus-userdebug \
+    custom_manaus-eng
